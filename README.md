@@ -6,9 +6,8 @@
 
 
 
-**lseldon16/lseldon16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on 🏫.
 - 🌱 I’m currently learning about Software Engineering, Networks and Network Programming, and Computer Systems Organization.
