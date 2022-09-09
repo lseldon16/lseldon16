@@ -11,7 +11,7 @@
 ### :woman_technologist: About Me :
 
 - I am an undergraduate Computer Science student at Clemson University. 👋
-- - 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her
 - 🔭 I’m currently working on obtaining a BS Computer Science Degree.
 - 🌱 I’m currently learning about Software Engineering, Networks and Network Programming, and Computer Systems Organization.
 - 👯 I’m looking to collaborate on anyting and everything.
