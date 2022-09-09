@@ -6,9 +6,11 @@
 
 
 
+---
 
+### :woman_technologist: About Me :
 
-
+- I am an undergraduate Computer Science student at Clemson University. 👋
 - 🔭 I’m currently working on 🏫.
 - 🌱 I’m currently learning about Software Engineering, Networks and Network Programming, and Computer Systems Organization.
 - 👯 I’m looking to collaborate on anyting and everything.
