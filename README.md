@@ -5,7 +5,7 @@
 </div>
 
 
-<!--
+
 **lseldon16/lseldon16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lseldon@clemson.edu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I make music under the name "Ryn Sels." you should go take a listen!
--->
+
